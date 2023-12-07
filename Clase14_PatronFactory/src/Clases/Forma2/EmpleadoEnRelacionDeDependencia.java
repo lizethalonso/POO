@@ -4,6 +4,7 @@ public class EmpleadoEnRelacionDeDependencia extends Empleado {
     private double sueldoMensual;
 
     public EmpleadoEnRelacionDeDependencia(double sueldoMensual) {
+
         this.sueldoMensual = sueldoMensual;
     }
 
